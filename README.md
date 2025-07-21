@@ -17,8 +17,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **AI-powered dashboards, ML apps, and full-stack web tools**
-- 🌱 Exploring **Supabase, LangChain, and advanced React patterns**
+- 🔭 Currently working on **ML apps, and full-stack web tools**
+- 🌱 Exploring **Supabase,and advanced React**
 - 🧠 Passionate about solving real-world problems with code & data
 - 📚 Always learning — whether it’s algorithms, product design, or new frameworks
 - 💬 Ask me about **React, C# or automating boring stuff**
