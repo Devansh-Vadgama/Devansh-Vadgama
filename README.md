@@ -42,9 +42,9 @@
 
 ### 🧠 Recent Projects
 
-- 💹 **AI Trade Dashboard** — React + Supabase + ML for analyzing India’s trade data  
+- 🚀 **NASA APOD Explorer** — A sleek React app using NASA’s Astronomy Picture of the Day API to explore daily space imagery 
 - 🧠 **Rental Price Predictor** — ML model predicting rent based on location and features  
-- 📊 **Custom Data Visualizers** — Tailored charts & dashboards with interactivity  
+- 📊 **Finance Tracker** — Tailored charts & dashboards with interactivity  
 
 ---
 
