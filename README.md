@@ -40,7 +40,7 @@
 
 ### 📫 Let’s Connect
 
-- 💼 Portfolio: [devansh-vadgama-portfolio.netlify.app](https://devansh-vadgama-portfolio.netlify.app/)
+- 💼 Portfolio: [devanshvadgama.qzz.io](https://devanshvadgama.qzz.io/)
 - ✉️ Email: devanshvadgama3@gmail.com
 - 📝 LinkedIn: [linkedin.com/in/devanshvadgama](www.linkedin.com/in/devansh-vadgama-79865a2a8)
 
