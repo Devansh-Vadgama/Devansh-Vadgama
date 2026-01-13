@@ -20,7 +20,7 @@
 - 🔭 Currently working on **ML apps, and full-stack web tools**
 - 🌱 Exploring **Supabase,and advanced React**
 - 🧠 Passionate about solving real-world problems with code & data
-- 📚 Always learning — whether it’s algorithms, product design, or new frameworks
+- 📚 Always learning whether it’s algorithms, product design, or new frameworks
 - 💬 Ask me about **React, C# or automating boring stuff**
 - ⚡ Fun fact: I enjoy debugging almost as much as building ✨
 
