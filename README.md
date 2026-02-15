@@ -18,41 +18,38 @@
 
 ---
 
-## About Me
+## 👋 Who I Am
 
-I design and build digital products that solve real problems.
+I design and build digital systems that are fast, scalable, and purposeful.
 
-My focus is not just writing code — it's building systems that are scalable, intentional, and user-centric. From machine learning applications to full-stack web platforms, I care about clarity, performance, and real-world impact.
+My focus is not just writing code — it's building products that solve real-world problems and feel intuitive to use.
 
-🚀 **Founder of Lucent** — a modern web studio creating high-performance websites for businesses and creators.
-
-🧠 Currently working on:
-- AI-powered applications  
-- Scalable backend systems  
-- Advanced React architecture  
-- Automation tools that eliminate repetitive work  
+- 🚀 Founder of **Lucent** — a modern web studio helping businesses launch clean, high-performance websites.
+- 🧠 Exploring advanced React architecture, backend systems, and AI-driven tools.
+- ⚡ Obsessed with performance, simplicity, and elegant UI.
+- 📈 Constantly learning, iterating, and shipping.
 
 ---
 
-## What I Believe In
+## 🛠 What I Build
 
-- Clean architecture over quick hacks  
-- Simplicity over unnecessary complexity  
-- Building products, not just projects  
-- Continuous learning and iteration  
+• Full-stack web applications  
+• AI & machine learning tools  
+• Automation systems  
+• Modern business websites  
+• Data-driven dashboards  
+
+More detailed projects, case studies, and live builds are available on my portfolio.
 
 ---
 
-## Explore My Work
+## 🌐 Explore
 
-**Main Portfolio**  
-→ https://devansh.space  
-
-**Lucent — Web Studio**  
-→ https://lucent.devansh.space  
+**Portfolio** → https://devansh.space  
+**Lucent Web Studio** → https://lucent.devansh.space  
 
 ---
 
 <p align="center">
-  <i>Building today. Improving tomorrow.</i>
+  <i>Building today what others will use tomorrow.</i>
 </p>
