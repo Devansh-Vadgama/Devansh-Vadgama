@@ -2,7 +2,7 @@
 <h3 align="center">Developer | Problem Solver | Student </h3>
 
 <p align="center">
-  <a href="https://devansh-vadgama-portfolio.netlify.app" target="[_blank](https://devanshvadgama.qzz.io/)">
+  <a href="https://devansh-vadgama-portfolio.netlify.app" target="[_blank](https://devansh.space)">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/devanshvadgama" target="www.linkedin.com/in/devansh-vadgama-79865a2a8">
