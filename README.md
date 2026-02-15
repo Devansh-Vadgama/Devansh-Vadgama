@@ -31,14 +31,14 @@ Computer Engineering diploma student focused on precise, usable web interfaces a
 </p>
 
 <p style="color:#555;">
-I approach development with restraint — avoiding unnecessary complexity and prioritizing clarity,
+I approach development with restraint - avoiding unnecessary complexity and prioritizing clarity,
 maintainability, and long-term performance.
 </p>
 
 <h2 style="margin-top:60px; font-weight:600; color:#1e1e1e;">Lucent</h2>
 
 <p>
-Founder of <strong style="color:#6F8A73;">Lucent Digital Studio</strong> — crafting high-performance websites for businesses in Mumbai.
+Founder of <strong style="color:#6F8A73;">Lucent Digital Studio</strong> - crafting high-performance websites for businesses in Mumbai.
 </p>
 
 <ul style="list-style:none; padding-left:0; color:#555;">
@@ -56,7 +56,7 @@ It is disciplined decision-making.”
 </p>
 
 <p style="color:#555;">
-Digital products should feel calm, precise, and purposeful —
+Digital products should feel calm, precise, and purposeful -
 designed not for trends, but for longevity.
 </p>
 
