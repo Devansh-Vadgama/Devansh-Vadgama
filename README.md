@@ -1,56 +1,51 @@
 <h1 align="center">Devansh Vadgama</h1>
-<h3 align="center">Full-Stack Developer • Product Builder • Founder</h3>
 
 <p align="center">
-  <a href="https://devansh.space" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://lucent.devansh.space" target="_blank">
-    <img src="https://img.shields.io/badge/Lucent-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/devansh-vadgama-79865a2a8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:devanshvadgama3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  Developer. Designer of digital systems. Founder of Lucent.
+</p>
+
+<p align="center">
+  <a href="https://devansh.space">Portfolio</a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://lucent.devansh.space">Lucent Digital Studio</a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/devansh-vadgama-79865a2a8">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="mailto:devanshvadgama3@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👋 Who I Am
+## Profile
 
-I build digital products that are fast, scalable, and built with intent.
+Computer Engineering diploma student focused on clarity, performance, and usable web interfaces.
 
-My focus goes beyond writing code — I design systems that solve real-world problems and deliver clean user experiences.
-
-🚀 Founder of **Lucent** — a modern web studio crafting high-performance websites for businesses and brands.  
-🧠 Currently exploring advanced React architecture, backend systems, and AI-driven applications.  
-⚡ Obsessed with performance, simplicity, and elegant UI.  
-📈 Always learning. Always shipping.
+I build thoughtful digital products that prioritize structure, restraint, and long-term maintainability.  
+My work bridges careful engineering with intentional design.
 
 ---
 
-## 🛠 What I Build
+## Lucent
 
-• Full-stack web applications  
-• AI & machine learning tools  
-• Automation systems  
-• Modern business websites  
-• Data-driven dashboards  
+Founder of **Lucent Digital Studio** — a web studio crafting custom, high-performance websites for businesses in Mumbai.
+
+Each project is built with discipline:
+- Structured architecture  
+- Responsive by default  
+- Performance-optimized  
+- Designed to age well  
 
 ---
 
-## 🌐 Explore My Work
+## Philosophy
 
-**Portfolio** → https://devansh.space  
-**Lucent Web Studio** → https://lucent.devansh.space  
+> Simplicity is not minimal decoration.  
+> It is disciplined decision-making.
+
+I care about systems that feel calm, precise, and purposeful.
 
 ---
 
 <p align="center">
-  <i>Building today what others will use tomorrow.</i>
+  Designed with discipline.
 </p>
