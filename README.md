@@ -42,10 +42,10 @@ Founder of <strong style="color:#6F8A73;">Lucent Digital Studio</strong> — cra
 </p>
 
 <ul style="list-style:none; padding-left:0; color:#555;">
-<li style="margin-bottom:10px;"><span style="color:#6F8A73;">—</span> Structured architecture</li>
-<li style="margin-bottom:10px;"><span style="color:#6F8A73;">—</span> Responsive by default</li>
-<li style="margin-bottom:10px;"><span style="color:#6F8A73;">—</span> Performance-first builds</li>
-<li style="margin-bottom:10px;"><span style="color:#6F8A73;">—</span> Designed to age well</li>
+<li style="margin-bottom:10px;"><span style="color:#6F8A73;"></span> Structured architecture</li>
+<li style="margin-bottom:10px;"><span style="color:#6F8A73;"></span> Responsive by default</li>
+<li style="margin-bottom:10px;"><span style="color:#6F8A73;"></span> Performance-first builds</li>
+<li style="margin-bottom:10px;"><span style="color:#6F8A73;"></span> Designed to age well</li>
 </ul>
 
 <h2 style="margin-top:60px; font-weight:600; color:#1e1e1e;">Philosophy</h2>
