@@ -35,16 +35,6 @@ I approach development with restraint — avoiding unnecessary complexity and pr
 maintainability, and long-term performance.
 </p>
 
-<h2 style="margin-top:60px; font-weight:600; color:#1e1e1e;">What I Build</h2>
-
-<ul style="list-style:none; padding-left:0;">
-<li style="margin-bottom:12px;"><span style="color:#6F8A73;">•</span> Full-stack web applications</li>
-<li style="margin-bottom:12px;"><span style="color:#6F8A73;">•</span> AI & machine learning tools</li>
-<li style="margin-bottom:12px;"><span style="color:#6F8A73;">•</span> Data-driven dashboards</li>
-<li style="margin-bottom:12px;"><span style="color:#6F8A73;">•</span> Automation systems</li>
-<li style="margin-bottom:12px;"><span style="color:#6F8A73;">•</span> Custom business websites</li>
-</ul>
-
 <h2 style="margin-top:60px; font-weight:600; color:#1e1e1e;">Lucent</h2>
 
 <p>
