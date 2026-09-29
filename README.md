@@ -4,14 +4,16 @@
 Devansh <span style="font-weight:800; color:#6F8A73;">Vadgama</span>
 </h1>
 
-<p style="font-size:18px; color:#555; margin-bottom:30px;">
+<p style="font-size:18px; color:#555; margin-bottom:10px;">
 Building thoughtful digital systems.
+</p>
+
+<p style="font-size:15px; color:#777; margin-bottom:30px;">
+B.Tech Computer Engineering · Developer · Builder
 </p>
 
 <p style="font-size:15px;">
   <a href="https://devansh.space" style="margin:0 20px; text-decoration:none; color:#6F8A73;">Portfolio</a>
-  ·
-  <a href="https://lucent.devansh.space" style="margin:0 20px; text-decoration:none; color:#6F8A73;">Lucent</a>
   ·
   <a href="https://www.linkedin.com/in/devansh-vadgama-79865a2a8" style="margin:0 20px; text-decoration:none; color:#6F8A73;">LinkedIn</a>
   ·
@@ -24,40 +26,52 @@ Building thoughtful digital systems.
 
 <div style="max-width:760px; margin:auto; line-height:1.9; font-size:16px; color:#2b2b2b;">
 
-<h2 style="margin-top:60px; font-weight:600; color:#1e1e1e;">Profile</h2>
+<h2 style="margin-top:60px; font-weight:600; color:#1e1e1e;">
+About
+</h2>
 
 <p>
-Computer Engineering diploma student focused on precise, usable web interfaces and scalable digital architecture.
+B.Tech Computer Engineering student focused on building polished web products,
+useful tools, and scalable digital systems.
 </p>
 
 <p style="color:#555;">
-I approach development with restraint - avoiding unnecessary complexity and prioritizing clarity,
-maintainability, and long-term performance.
+I enjoy taking ideas from concept to working product — combining clean interfaces,
+practical engineering, and thoughtful system design.
 </p>
 
-<h2 style="margin-top:60px; font-weight:600; color:#1e1e1e;">Lucent</h2>
-
-<p>
-Founder of <strong style="color:#6F8A73;">Lucent Digital Studio</strong> - crafting high-performance websites for businesses in Mumbai.
-</p>
+<h2 style="margin-top:60px; font-weight:600; color:#1e1e1e;">
+What I Build
+</h2>
 
 <ul style="list-style:none; padding-left:0; color:#555;">
-<li style="margin-bottom:10px;"><span style="color:#6F8A73;"></span> Structured architecture</li>
-<li style="margin-bottom:10px;"><span style="color:#6F8A73;"></span> Responsive by default</li>
-<li style="margin-bottom:10px;"><span style="color:#6F8A73;"></span> Performance-first builds</li>
-<li style="margin-bottom:10px;"><span style="color:#6F8A73;"></span> Designed to age well</li>
+<li style="margin-bottom:12px;">Web applications with clean, responsive interfaces</li>
+<li style="margin-bottom:12px;">Full-stack products built around real-world problems</li>
+<li style="margin-bottom:12px;">Automation and developer tools</li>
+<li style="margin-bottom:12px;">Experimental projects involving AI, hardware, and connected systems</li>
 </ul>
 
-<h2 style="margin-top:60px; font-weight:600; color:#1e1e1e;">Philosophy</h2>
+<h2 style="margin-top:60px; font-weight:600; color:#1e1e1e;">
+Approach
+</h2>
 
-<p style="font-style:italic; color:#6F8A73; margin-top:20px; font-size:18px;">
-“Simplicity is not minimal decoration.
+<p style="color:#555;">
+I prefer simple systems over unnecessary complexity.
+Good software should be understandable, maintainable, fast, and intentional.
+</p>
+
+<p style="font-style:italic; color:#6F8A73; margin-top:24px; font-size:18px;">
+“Simplicity is not minimal decoration.<br>
 It is disciplined decision-making.”
 </p>
 
+<h2 style="margin-top:60px; font-weight:600; color:#1e1e1e;">
+Currently
+</h2>
+
 <p style="color:#555;">
-Digital products should feel calm, precise, and purposeful -
-designed not for trends, but for longevity.
+Exploring product development, web engineering, AI-powered systems,
+automation, and projects that connect software with the physical world.
 </p>
 
 </div>
@@ -65,5 +79,5 @@ designed not for trends, but for longevity.
 <br><br><br>
 
 <div align="center" style="opacity:0.6; font-size:14px; color:#6F8A73;">
-Designed with discipline.
+Build with intent.
 </div>
