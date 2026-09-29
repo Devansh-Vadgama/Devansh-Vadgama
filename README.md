@@ -36,7 +36,7 @@ useful tools, and scalable digital systems.
 </p>
 
 <p style="color:#555;">
-I enjoy taking ideas from concept to working product — combining clean interfaces,
+I enjoy taking ideas from concept to working product - combining clean interfaces,
 practical engineering, and thoughtful system design.
 </p>
 
